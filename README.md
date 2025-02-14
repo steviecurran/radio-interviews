@@ -2,8 +2,6 @@
 
 [Visiting Venus and Giant Comets](https://www.rnz.co.nz/national/programmes/saturday/audio/2018802395/stephen-curran-visiting-venus-and-giant-comets)
 
-![](https://raw.githubusercontent.com/steviecurran/radio-interviews/refs/heads/main/Parkes_fake_crop.jpg)
-
 [Star Ovens and Mass Extinctions](https://www.rnz.co.nz/national/programmes/saturday/audio/2018793742/stephen-curran-star-ovens-and-mass-extinctions)
 
 [Extraterrestrial Artifacts](https://www.rnz.co.nz/national/programmes/saturday/audio/2018789300/dr-stephen-curran-avi-loeb-aliens-and-other-utter-crackpottery)
