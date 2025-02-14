@@ -6,7 +6,7 @@
 
 [Star Ovens and Mass Extinctions](https://www.rnz.co.nz/national/programmes/saturday/audio/2018793742/stephen-curran-star-ovens-and-mass-extinctions)
 
-E[xtraterrestrial Artifacts](https://www.rnz.co.nz/national/programmes/saturday/audio/2018789300/dr-stephen-curran-avi-loeb-aliens-and-other-utter-crackpottery)
+[Extraterrestrial Artifacts](https://www.rnz.co.nz/national/programmes/saturday/audio/2018789300/dr-stephen-curran-avi-loeb-aliens-and-other-utter-crackpottery)
 
 [Black Holes](https://www.rnz.co.nz/national/programmes/afternoons/audio/2018773992/expert-feature-black-holes-in-space-with-dr-stephen-curran)
 
