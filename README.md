@@ -1,5 +1,5 @@
 # Interviews on New Zealand's national radio
 
-[https://www.rnz.co.nz/national/programmes/saturday/audio/2018802395/stephen-curran-visiting-venus-and-giant-comets][Visiting Venus and Giant Comets]
+<https://www.rnz.co.nz/national/programmes/saturday/audio/2018802395/stephen-curran-visiting-venus-and-giant-comets>Visiting Venus and Giant Comets
 
 Star Ovens and Mass Extinctions 
